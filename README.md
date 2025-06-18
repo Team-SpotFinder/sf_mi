@@ -42,15 +42,15 @@ It is responding by giving output /get_vehicle_status which is visualising live 
 
 ### Dependencies
 
-1. [sf_msgs](https://git.hs-coburg.de/SpotFinder/sf_msgs.git).
-2. [sf_driving_controller](https://git.hs-coburg.de/SpotFinder/sf_driving_controller.git)
+1. [sf_msgs](https://github.com/Team-SpotFinder/sf_msgs.git).
+2. [sf_driving_controller](https://github.com/Team-SpotFinder/sf_driving_controller.git)
 3. [std_msgs](https://github.com/ros2/common_interfaces/tree/rolling/std_msgs)
-4. [sf_localization](https://git.hs-coburg.de/SpotFinder/sf_localization.git)
+4. [sf_localization](https://github.com/Team-SpotFinder/sf_localization.git)
 
 
 ### Installation
 
-This repository needs to be cloned, built and sourced. It needs to be cloned to `/src` folder of the ROS2 workspace. This can be done by following the instruction provided in the [sf_master](https://git.hs-coburg.de/SpotFinder/sf_master.git).
+This repository needs to be cloned, built and sourced. It needs to be cloned to `/src` folder of the ROS2 workspace. This can be done by following the instruction provided in the [sf_master](https://github.com/Team-SpotFinder/sf_master.git).
 
 ### Run Steps
 
